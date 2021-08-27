@@ -18,6 +18,10 @@
 					<li><a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" rel="noopener" class="wow fadeInUp" data-wow-delay=".2s" title="Facebook"><i
 								class="fab fa-facebook-f"></i></a></li>
 					{% endif %}
+					{% if site.instagram_username %}
+					<li><a href="https://www.instagram.com/{{ site.instagram_username }}" target="_blank" rel="noopener" class="wow fadeInUp"
+							data-wow-delay=".2s" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+					{% endif %}
 					{% if site.email %}
 						<li><a href="mailto:{{ site.email }}" target="_blank" rel="noopener" class="wow fadeInUp" data-wow-delay=".3s" title="Email"><i class="fa fa-envelope"></i></a></li>
 					{% endif %}
