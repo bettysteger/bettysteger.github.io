@@ -8,7 +8,7 @@ require 'RMagick'
 require 'open-uri'
 
 # Change your GitHub reponame
-GITHUB_REPONAME    = "lpsBetty/lpsBetty.github.io"
+GITHUB_REPONAME    = "bettysteger/bettysteger.github.io"
 GITHUB_REPO_BRANCH = "master"
 
 SOURCE = ""
