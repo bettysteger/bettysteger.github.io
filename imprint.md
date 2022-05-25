@@ -1,5 +1,6 @@
 ---
 layout: page
+sitemap: false
 title: Imprint
 permalink: /imprint/
 ---
