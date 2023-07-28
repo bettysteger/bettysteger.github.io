@@ -3,7 +3,7 @@ layout: page
 title: Kündigung IRB und Wechsel zu Ortner Hausverwaltung  
 ---
 
-Gründe für die Kündigung: 
+### Gründe für die Kündigung: 
 
 * schlechte Kommunikation 
 * keine Entscheidungsgrundlage beim letzten Umlaufbeschluss zwecks Kreditaufnahme
@@ -11,13 +11,17 @@ Gründe für die Kündigung:
 * Fassade wird anscheinend auch neu gemacht, weiß aber keiner (hat Baumeister Berger beiläufig erwähnt) 
 * kein Kostenvoranschlag für Fenster und Balkone 
 
+  
+  
 ## Wir sammeln Unterschriften für einen Wechsel der Hausverwaltung => Umlaufbeschluss
 
 ### Bitte dieses [PDF](https://drive.google.com/file/d/1N8YG7bOLQn3BTWuI8c0TCXDl-YLXlv8u/view?usp=drive_link) runterladen, unterschreiben, einscannen und an mich per [E-Mail](mailto:bettysteger@gmail.com?subject=Umlaufbeschluss%20Lasserstraße%2036) zurücksenden. 
+  
 
 ### Oder persönlich vorbeikommen und unterschreiben: Lasserstraße 36, Top 40
+  
 
-### [📞 Ruf](tel:+436603178278) mich einfach unter [+43660 3 178 278](tel:+436603178278) an, wann du unterschreiben kommen willst 
+### 📞 Einfach unter [+43 660 3 178 278](tel:+436603178278) anrufen, wenn du unterschreiben kommen willst 
 
 -----------------
 
@@ -25,7 +29,7 @@ Ihr seid auch alle gerne in unserer [WhatsApp-Gruppe](https://chat.whatsapp.com/
 
 Bei Interesse kann ich euch die Angebote und meine Recherchen für insgesamt 4 Hausverwaltungen auch per E-Mail zukommen lassen!
 
-**Aktueller Stand:** Aktuell haben wir 46.17% Anteile die für einen Wechsel der Hausverwaltung stimmen:
+**Aktueller Stand:** Aktuell haben wir **46.17% Anteile** die für einen Wechsel der Hausverwaltung stimmen!
 
-
+  
 ### LG Bettina Steger vom Top 40
