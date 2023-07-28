@@ -23,7 +23,8 @@ Oder persönlich vorbeikommen und unterschreiben: Lasserstraße 36, Top 40
 
 -----------------
 
-Ihr seid auch alle gerne in unserem [WhatsApp-Gruppe](https://chat.whatsapp.com/BfDHrSeFjTP8KUQuyZqpI1), die ich speziell für alle Eigentümer der Lasserstraße 36, 5020 Salzburg gemacht habe willkommen! 
+Ihr seid auch alle gerne in unserer [WhatsApp-Gruppe](https://chat.whatsapp.com/BfDHrSeFjTP8KUQuyZqpI1), die ich speziell für alle EigentümerInnen der Lasserstraße 36 gemacht habe, willkommen! 
 
 
 ### LG Bettina Steger vom Top 40
+
