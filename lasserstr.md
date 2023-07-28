@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Kündigung IRB und Wechsel zu Ortner Hausverwaltung  
+title: Wechsel Hausverwaltung  
 ---
 
-### Gründe für die Kündigung: 
+### Gründe für die Kündigung der IRB: 
 
 * schlechte Kommunikation 
 * keine Entscheidungsgrundlage beim letzten Umlaufbeschluss zwecks Kreditaufnahme
@@ -12,9 +12,8 @@ title: Kündigung IRB und Wechsel zu Ortner Hausverwaltung
 * kein Kostenvoranschlag für Fenster und Balkone 
 
   
-##. 
   
-## Wir sammeln Unterschriften für einen Wechsel der Hausverwaltung => Umlaufbeschluss
+## Wir sammeln Unterschriften für einen Wechsel der Hausverwaltung → Umlaufbeschluss
 
 ### Bitte dieses [PDF](https://drive.google.com/file/d/1N8YG7bOLQn3BTWuI8c0TCXDl-YLXlv8u/view?usp=drive_link) runterladen, unterschreiben, einscannen und an mich per [E-Mail](mailto:bettysteger@gmail.com?subject=Umlaufbeschluss%20Lasserstraße%2036) zurücksenden. 
   
@@ -28,7 +27,9 @@ title: Kündigung IRB und Wechsel zu Ortner Hausverwaltung
 
 Ihr seid auch alle gerne in unserer [WhatsApp-Gruppe](https://chat.whatsapp.com/BfDHrSeFjTP8KUQuyZqpI1), die ich speziell für alle EigentümerInnen der Lasserstraße 36 gemacht habe, willkommen! 
 
-Bei Interesse kann ich euch die Angebote und meine Recherchen für insgesamt 4 Hausverwaltungen auch per E-Mail zukommen lassen!
+Bei Interesse kann ich euch die Angebote und meine Recherchen für insgesamt 4 Hausverwaltungen auch per E-Mail zukommen lassen! 
+
+Neue Hausverwaltung: Bei [Gerald Ortner](https://www.immobilien-ortner.at/verwaltung/) habe ich das beste Gefühl und er wäre auch der günstigste. Er hat schon eine Liegenschaft der IRB mit Problemen mit Baumeister Berger übernommen!
 
 **Aktueller Stand:** Aktuell haben wir **46.17% Anteile** die für einen Wechsel der Hausverwaltung stimmen!
 
