@@ -12,6 +12,7 @@ title: Kündigung IRB und Wechsel zu Ortner Hausverwaltung
 * kein Kostenvoranschlag für Fenster und Balkone 
 
   
+##. 
   
 ## Wir sammeln Unterschriften für einen Wechsel der Hausverwaltung => Umlaufbeschluss
 
