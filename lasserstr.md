@@ -31,7 +31,7 @@ Bei Interesse kann ich euch die Angebote und meine Recherchen für insgesamt 4 H
 
 Neue Hausverwaltung: Bei [Gerald Ortner](https://www.immobilien-ortner.at/verwaltung/) habe ich das beste Gefühl und er wäre auch der günstigste. Er hat schon eine Liegenschaft der IRB mit Problemen mit Baumeister Berger übernommen!
 
-**Aktueller Stand:** Aktuell haben wir **46.17% Anteile** die für einen Wechsel der Hausverwaltung stimmen!
+**Aktueller Stand:** Aktuell haben wir **54,9% Anteile** die für einen Wechsel der Hausverwaltung stimmen!
 
   
 ### LG Bettina Steger vom Top 40
