@@ -2,23 +2,65 @@
 permalink: /netcup/
 layout: page
 title: netcup Gutscheine
-description: "netcup Gutscheincodes: 5 € Rabatt für Neukunden (unbegrenzt gültig) und 30 % Rabatt auf Webhosting 2000 für Neukunden. Code kopieren und bei netcup.com einlösen."
-netcup_codes:
-  - 5207nc178516725614
-  - 5207nc178516725613
-  - 5207nc178516725612
-  - 5207nc178516725611
-  - 5207nc178516725610
-  - 5207nc17851672569
-  - 5207nc17851672568
-  - 5207nc17851672567
-  - 5207nc17851672566
-  - 5207nc17851672565
-  - 5207nc17851672564
-  - 5207nc17851672563
-  - 5207nc17851672562
-  - 5207nc17851672561
-  - 5207nc17851672560
+description: "netcup Gutscheincodes: 5 € Rabatt für Neukunden (unbegrenzt gültig) und 30 % Rabatt auf Webhosting 2000, 4000 und 8000 für Neukunden. Code kopieren und bei netcup.com einlösen."
+netcup_products:
+  - name: Webhosting 2000
+    url: https://www.netcup.com/de/hosting/webhosting/webhosting-2000-nue
+    description: >-
+      ist der Einsteigertarif für den Betrieb von <strong>bis zu drei Domains</strong>
+      für kleine, private Webseiten und den Einsatz eines <strong>CMS Systems</strong>
+      wie z.B. WordPress.
+    codes:
+      - 5207nc178516725614
+      - 5207nc178516725613
+      - 5207nc178516725612
+      - 5207nc178516725611
+      - 5207nc178516725610
+      - 5207nc17851672569
+      - 5207nc17851672568
+      - 5207nc17851672567
+      - 5207nc17851672566
+      - 5207nc17851672565
+      - 5207nc17851672564
+      - 5207nc17851672563
+      - 5207nc17851672562
+      - 5207nc17851672561
+      - 5207nc17851672560
+  - name: Webhosting 4000
+    url: https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue
+    description: >-
+      ist ein leistungsstarkes Webhosting für <strong>mehrere mittelgroße Webseiten</strong>,
+      die neben dem Einsatz eines <strong>CMS Systems</strong> wie z.B. WordPress auch
+      mittelgroße Mediengalerien enthalten.
+    codes:
+      - 5208nc17851748459
+      - 5208nc17851748458
+      - 5208nc17851748457
+      - 5208nc17851748456
+      - 5208nc17851748455
+      - 5208nc17851748454
+      - 5208nc17851748453
+      - 5208nc17851748452
+      - 5208nc17851748451
+      - 5208nc17851748450
+  - name: Webhosting 8000
+    url: https://www.netcup.com/de/hosting/webhosting/webhosting-8000-nue
+    description: >-
+      ist der leistungsstärkste Webhosting Tarif für <strong>bis zu zwölf Domains</strong>
+      und mit dem <strong>größten Speicherplatz</strong>. Dieser Tarif eignet sich besonders
+      für den Betrieb von <strong>großen Webseiten, die Bildergalerien oder Videos</strong>
+      enthalten oder für den Einsatz einer <strong>Cloud Storage Lösung</strong>.
+    codes:
+      - 5209nc17851748499
+      - 5209nc17851748498
+      - 5209nc17851748497
+      - 5209nc17851748496
+      - 5209nc17851748495
+      - 5209nc17851748494
+      - 5209nc17851748493
+      - 5209nc17851748492
+      - 5209nc17851748491
+      - 5209nc17851748490
 ---
 
 <style>
@@ -113,22 +155,28 @@ netcup_codes:
   <a class="netcup-cta" href="https://www.netcup.com/de?ref=189769" target="_blank" rel="noopener">Jetzt bei netcup.com einlösen →</a>
 </div>
 
-<h3>30 % Rabatt auf Webhosting 2000</h3>
+{% for product in page.netcup_products %}
+<h3>30 % Rabatt auf {{ product.name }}</h3>
 
 <p>
-  Jeder dieser Gutscheine ist <strong>nur einmal einlösbar</strong>, gilt <strong>für Neukunden</strong> und für das Produkt
-  <a href="https://www.netcup.com/de/hosting?ref=189769" target="_blank" rel="noopener">Webhosting 2000</a>.
+  <a href="{{ product.url }}?ref=189769" target="_blank" rel="noopener">{{ product.name }}</a>
+  {{ product.description }}
+</p>
+
+<p>
+  Jeder dieser Gutscheine ist <strong>nur einmal einlösbar</strong> und gilt <strong>für Neukunden</strong>.
   Kopiere dir einen Code - falls er schon eingelöst wurde, probiere einfach den nächsten.
 </p>
 
 <div class="netcup-grid">
-  {% for code in page.netcup_codes %}
+  {% for code in product.codes %}
   <div class="netcup-code">
     <code>{{ code }}</code>
     <button class="netcup-copy" data-code="{{ code }}">Kopieren</button>
   </div>
   {% endfor %}
 </div>
+{% endfor %}
 
 <h3>So löst du einen Gutschein ein</h3>
 
