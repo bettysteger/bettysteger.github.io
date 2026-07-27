@@ -31,7 +31,7 @@ author_name: "BETTINA STEGER"
 # Social links in the site footer
 twitter_username: "_bettysteger"
 facebook_username: "lpsBetty"
-instagram_username: "_bettysteger"
+instagram_username: "schneebettchen"
 github_username: "bettysteger"
 linkedin_username: "bettina-steger-2ab1457b"
 email: "hello@bettysteger.com"
@@ -43,4 +43,3 @@ highlighter : rouge
 plugins:
   - jekyll-gravatar
   - jekyll-redirect-from
-
