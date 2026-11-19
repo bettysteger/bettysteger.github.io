@@ -11,20 +11,20 @@ netcup_products:
       für kleine, private Webseiten und den Einsatz eines <strong>CMS Systems</strong>
       wie z.B. WordPress.
     codes:
-      - 5207nc178516725614
-      - 5207nc178516725613
-      - 5207nc178516725612
-      - 5207nc178516725611
-      - 5207nc178516725610
-      - 5207nc17851672568
-      - 5207nc17851672567
-      - 5207nc17851672566
-      - 5207nc17851672565
-      - 5207nc17851672564
-      - 5207nc17851672563
-      - 5207nc17851672562
-      - 5207nc17851672561
-      - 5207nc17851672560
+      - 5207nc179509244913
+      - 5207nc179509244912
+      - 5207nc179509244911
+      - 5207nc179509244910
+      - 5207nc17950924499
+      - 5207nc17950924498
+      - 5207nc17950924497
+      - 5207nc17950924496
+      - 5207nc17950924495
+      - 5207nc17950924494
+      - 5207nc17950924493
+      - 5207nc17950924492
+      - 5207nc17950924491
+      - 5207nc17950924490
   - name: Webhosting 4000
     url: https://www.netcup.com/de/hosting/webhosting/webhosting-4000-nue
     description: >-
@@ -32,16 +32,16 @@ netcup_products:
       die neben dem Einsatz eines <strong>CMS Systems</strong> wie z.B. WordPress auch
       mittelgroße Mediengalerien enthalten.
     codes:
-      - 5208nc17851748459
-      - 5208nc17851748458
-      - 5208nc17851748457
-      - 5208nc17851748456
-      - 5208nc17851748455
-      - 5208nc17851748454
-      - 5208nc17851748453
-      - 5208nc17851748452
-      - 5208nc17851748451
-      - 5208nc17851748450
+      - 5208nc17950924629
+      - 5208nc17950924628
+      - 5208nc17950924627
+      - 5208nc17950924626
+      - 5208nc17950924625
+      - 5208nc17950924624
+      - 5208nc17950924623
+      - 5208nc17950924622
+      - 5208nc17950924621
+      - 5208nc17950924620
   - name: Webhosting 8000
     url: https://www.netcup.com/de/hosting/webhosting/webhosting-8000-nue
     description: >-
@@ -50,9 +50,9 @@ netcup_products:
       für den Betrieb von <strong>großen Webseiten, die Bildergalerien oder Videos</strong>
       enthalten oder für den Einsatz einer <strong>Cloud Storage Lösung</strong>.
     codes:
-      - 5209nc17851748499
-      - 5209nc17851748498
-      - 5209nc17851748497
+      - 5209nc17950924782
+      - 5209nc17950924781
+      - 5209nc17950924780
       - 5209nc17851748496
       - 5209nc17851748495
       - 5209nc17851748494
@@ -155,6 +155,7 @@ netcup_products:
 </div>
 
 {% for product in page.netcup_products %}
+{% if product.codes.size > 0 %}
 <h3>30 % Rabatt auf {{ product.name }}</h3>
 
 <p>
@@ -175,6 +176,7 @@ netcup_products:
   </div>
   {% endfor %}
 </div>
+{% endif %}
 {% endfor %}
 
 <h3>So löst du einen Gutschein ein</h3>
